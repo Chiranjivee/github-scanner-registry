@@ -3,7 +3,7 @@
     {
       "org"         : "Chiranjivee",
       "repo"        : "sqlite-cj",
-      "branch".     : "master",
+      "branch"      : "master",
       "product-tag" : "Code-It",
       "team-name"   : "cj",
       "owner"       : "cj"
@@ -11,7 +11,7 @@
     {
       "org"         : "Chiranjivee",
       "repo"        : "sqlite-cj",
-      "branch".     : "master",
+      "branch"      : "master",
       "product-tag" : "Code-It",
       "team-name"   : "cj",
       "owner"       : "cj"
