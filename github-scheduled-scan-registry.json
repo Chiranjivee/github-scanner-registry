@@ -1,20 +1,89 @@
 {
  "scheduled" : [
     {
-      "org"         : "Chiranjivee",
-      "repo"        : "sqlite-cj",
-      "branch"      : "master",
-      "product-tag" : "Code-It",
-      "team-name"   : "cj",
-      "owner"       : "cj"
-    }, 
+      "org"            : "cjs-test-org",
+      "business-unit"  : "cj",
+      "contact"        : "cthakur@salesforce.com"
+    },
     {
-      "org"         : "Chiranjivee",
-      "repo"        : "hibernate-practice",
-      "branch"      : "master",
-      "product-tag" : "Code-It",
-      "team-name"   : "cj",
-      "owner"       : "cj"
+      "org"            : "mulesoft",
+      "business-unit"  : "mulesoft",
+      "contact"        : "erika.voss@salesforce.com"
+    },
+    {
+      "org"            : "mulesoft-labs",
+      "business-unit"  : "mulesoft",
+      "contact"        : "erika.voss@salesforce.com"
+    },
+    {
+      "org"            : "mulesoft-consulting",
+      "business-unit"  : "mulesoft",
+      "contact"        : "erika.voss@salesforce.com"
+    },
+    {
+      "org"            : "mulesoft-ops",
+      "business-unit"  : "mulesoft",
+      "contact"        : "erika.voss@salesforce.com"
+    },
+    {
+      "org"            : "muleSoft-attic",
+      "business-unit"  : "mulesoft",
+      "contact"        : "erika.voss@salesforce.com"
+    },
+    {
+      "org"            : "aml-org",
+      "business-unit"  : "mulesoft",
+      "contact"        : "erika.voss@salesforce.com"
+    },
+    {
+      "org"            : "muleSoft-ESG",
+      "business-unit"  : "mulesoft",
+      "contact"        : "erika.voss@salesforce.com"
+    },
+    {
+      "org"            : "mulesoft-assets",
+      "business-unit"  : "mulesoft",
+      "contact"        : "erika.voss@salesforce.com"
+    },
+    {
+      "org"            : "mulesoft-itops-org",
+      "business-unit"  : "mulesoft",
+      "contact"        : "erika.voss@salesforce.com"
+    },
+    {
+      "org"            : "raml-org",
+      "business-unit"  : "mulesoft",
+      "contact"        : "erika.voss@salesforce.com"
+    },
+    {
+      "org"            : "application-network",
+      "business-unit"  : "mulesoft",
+      "contact"        : "erika.voss@salesforce.com"
+    },
+    {
+      "org"            : "advanced-rest-client",
+      "business-unit"  : "mulesoft",
+      "contact"        : "erika.voss@salesforce.com"
+    },
+    {
+      "org"            : "api-modeling",
+      "business-unit"  : "mulesoft",
+      "contact"        : "erika.voss@salesforce.com"
+    },
+    {
+      "org"            : "mboss-mulesoft",
+      "business-unit"  : "mulesoft",
+      "contact"        : "erika.voss@salesforce.com"
+    },
+    {
+      "org"            : "mulesoft-fhir",
+      "business-unit"  : "mulesoft",
+      "contact"        : "erika.voss@salesforce.com"
+    },
+    {
+      "org"            : "mulesoft-catalyst",
+      "business-unit"  : "mulesoft",
+      "contact"        : "erika.voss@salesforce.com"
     }
   ]
 }
